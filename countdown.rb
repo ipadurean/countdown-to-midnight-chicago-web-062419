@@ -22,4 +22,3 @@ def countdown_with_sleep(int)
     end
   end
 end
-  
