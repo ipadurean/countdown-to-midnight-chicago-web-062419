@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(int)
-  n = int
+  n == int
   while n > 0
     puts "#{n} SECOND(S)!"
     n -= 1
@@ -10,7 +10,7 @@ def countdown(int)
 end
 
 def countdown_with_sleep(int)
-  n = int
+  n == int
   while n > 0
     puts "#{n} SECOND(S)!"
     sleep (1)
